@@ -1,46 +1,43 @@
-# RadioWave
-A vintage mobile radio app for Indian FM stations
-📻 RadioWave: Premium Indian FM Streaming App
-RadioWave is a high-performance, mobile-first web application designed to bring the diverse sounds of India to a global audience. It features a curated database of over 400+ live radio streams across every Indian state, delivered through a sleek, modern interface.
+📻 RadioWave: Global FM Streaming Application
+(Note: Ensure your logo file is uploaded to this repository and named https://www.google.com/search?q=RadioWave-Logo.png)
 
-🚀 Live Demo
-Click Here to Launch RadioWave (Optimized for Mobile Browsers)
+RadioWave is a powerful, mobile-first application designed for the modern listener. It provides instant access to a massive database of radio stations from every country in the world, all contained within a lightweight and high-performance interface.
 
 ✨ Key Features
-Regional Diversity: Dedicated channels for all 28 Indian States and 8 Union Territories.
+Global Reach: Includes radio stations from all countries, covering diverse cultures, news, and music from across the globe.
 
-Multilingual Support: Filter stations by Hindi, Tamil, Telugu, Punjabi, Bengali, and more.
+Modern UI/UX: A clean, contemporary interface featuring Glassmorphism design, dark-mode optimization, and smooth transitions.
 
-Modern UI/UX: Built with a Glassmorphism aesthetic, featuring smooth CSS transitions and a dark-mode optimized layout.
+Mobile-Optimized: Built specifically for mobile users with a vertical-scrolling layout and touch-friendly controls for easy one-handed navigation.
 
-Mobile-First Design: Engineered for one-handed use with a vertical scrolling list and sticky "Now Playing" controls.
+Diverse Genres: Easily browse through International News, Bollywood, Pop, Jazz, Sports, and Talk Radio from different continents.
 
-Real-time Metadata: Displays station name, city of origin, and genre dynamically as you switch streams.
+Smart Metadata: Dynamically updates the display to show the Station Name, Country, City, and Genre during playback.
 
 🛠️ Tech Stack
-Frontend: HTML5, CSS3 (Custom Flexbox/Grid systems).
+Frontend: HTML5, CSS3 (Modern Flexbox & Grid systems).
 
-Logic: Vanilla JavaScript (ES6+).
+Core Logic: Vanilla JavaScript (ES6+).
 
-Audio Engine: HTML5 Audio API with custom error handling for live stream buffering.
+Audio Engine: Advanced HTML5 Audio API with custom error handling to manage global stream buffering.
 
-Deployment: GitHub Pages for high-availability hosting.
+📱 Installation (Android)
+To install the application on your mobile device, simply download the APK file directly from this repository:
 
-📱 Installation (APK)
-If you prefer to install the app on your Android device:
+Locate the RadioWave.apk file in the list above.
 
-Download the RadioWave.apk from this repository.
+Click Download.
 
-Enable "Install from Unknown Sources" in your Android settings.
+On your Android device, enable "Install from Unknown Sources" in settings.
 
-Open the file and enjoy the music!
+Open the downloaded file and install to begin listening to the world.
 
-🔧 Technical Highlights
-Zero Dependencies: Built entirely with pure JavaScript to ensure a lightning-fast initial load time (<1s).
+🔧 Technical Implementation
+Single-File Architecture: The entire application logic and styling are contained within a single file for maximum efficiency.
 
-Stream Reliability: Implemented custom protocol handling to prioritize https secure streams, reducing playback failures.
+Zero Dependencies: Built without external libraries to ensure the smallest possible app size and fastest load times.
 
-State Management: Lightweight state handling to manage 400+ station entries without impacting mobile performance.
+Robust Streaming: Engineered to handle global stream protocols, ensuring a stable listening experience across various network conditions.
 
 👨‍💻 Developer
-[Your Name] Passionate about building functional, user-centric mobile experiences.
+bhavy Asawawa Focused on building high-performance, globally accessible mobile applications.
