@@ -1,2 +1,2 @@
 # RadioWave
-A vintage mobile-first radio app for Indian FM stations
+A vintage mobile radio app for Indian FM stations
