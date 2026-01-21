@@ -1,5 +1,4 @@
 📻 RadioWave: Global FM Streaming Application
-(Note: Ensure your logo file is uploaded to this repository and named https://www.google.com/search?q=RadioWave-Logo.png)
 
 RadioWave is a powerful, mobile-first application designed for the modern listener. It provides instant access to a massive database of radio stations from every country in the world, all contained within a lightweight and high-performance interface.
 
